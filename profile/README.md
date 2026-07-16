@@ -12,18 +12,28 @@ Access Kimi, GLM, Qwen, DeepSeek, and more through one unified API while keeping
 
 ## What you can do with Myrikko
 
-- Access multiple AI models through one unified API
-- Use the OpenAI, Anthropic, and Google GenAI SDKs
-- Switch models by changing the model parameter
-- View usage, costs, request logs, and model activity in one dashboard
-- Improve request reliability through provider-level routing and automatic failover
+* **Integrate once** — Access Chinese frontier AI models like Kimi, GLM, Qwen, and DeepSeek through a unified API. Selected global models, including GPT, Claude, and Gemini, are also available.
+* **Evaluate models more easily** — Compare supported models through a consistent API without maintaining separate provider integrations.
+* **Improve reliability** — Intelligent routing automatically switches between supported providers when available, helping reduce service interruptions.
+* **Monitor everything in one place** — Track usage, costs, billing, and request logs from a unified dashboard.
+* **Reduce AI API costs** — Developer-friendly pricing with no platform markup on supported models.
 
-## Available model families
+## Supported Models
 
-Kimi · GLM · Qwen · DeepSeek · Claude · GPT · Gemini · More
+Myrikko provides access to a growing collection of leading Chinese AI models, including:
 
-## Need help?
+* Kimi
+* GLM
+* Qwen
+* DeepSeek
+* And more
 
-For documentation problems, open an issue in the documentation repository.
+Selected global models are also available, including:
 
-For account, API key, billing, or private support requests, contact the Myrikko support team instead of posting sensitive information in a public issue.
+* Claude
+* GPT
+* Gemini
+
+This makes it easier to evaluate different model families through a single API.
+
+For the latest list of supported models, visit the [Model Marketplace](MODEL_MARKETPLACE_URL).
